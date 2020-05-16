@@ -1,73 +1,73 @@
-{					
-"label":"Ladybug Nominees 2020-21",	
-"description":	 "Ladybug Nominees 2020-21.",		
-"list": [				
-{				
+{
+"label":"Ladybug Nominees 2020-21",
+"description": "Ladybug Nominees 2020-21.",
+"list": [
+{
 "label":"Born to ride : a story about bicycle face",
-"isbns":	[			
-	"9781419734120",
-	"9781683354598"	
-]				
-},				
-{				
+"isbns":[
+"9781419734120",
+"9781683354598"
+]
+},
+{
 "label":"Crunch, The Shy Dinosaur",
-"isbns":	[			
-"9780399550560"	,
-"9780399550607"	,
-"9780593175682"	
-]				
-},				
-{				
-"label":"Fix That Clock	",
-"isbns":	[			
+"isbns":[
+"9780399550560",
+"9780399550607",
+"9780593175682"
+]
+},
+{
+"label":"Fix That Clock",
+"isbns":[
 "9781328904089",
-"9780358165002"	
-]				
-},				
-{				
+"9780358165002"
+]
+},
+{
 "label":"Fry Bread: A Native American Family Story",
-"isbns":	[			
-"9781626727465"	
-]				
-},				
-{				
+"isbns":[
+"9781626727465"
+]
+},
+{
 "label":"Home in the Woods",
-"isbns":	[			
+"isbns":[
 "9780399162909",
-"9780698172418"	
-]				
-},				
-{				
+"9780698172418"
+]
+},
+{
 "label":"Saturday",
-"isbns":	[			
-"9780316431279"	
-]				
-},				
-{				
+"isbns":[
+"9780316431279"
+]
+},
+{
 "label":"Sheep Dog and Sheep Sheep",
-"isbns":	[			
-"9780062677389"	
-]				
-},				
-{				
+"isbns":[
+"9780062677389"
+]
+},
+{
 "label":"Sulwe",
-"isbns":	[			
+"isbns":[
 "9781534425361",
-"9781534425378"	
-]				
-},				
-{				
+"9781534425378"
+]
+},
+{
 "label":"There Are No Bears in This Bakery",
-"isbns":	[			
+"isbns":[
 "9780399556654",
-"9780399556678"	
-]				
-},				
-{				
+"9780399556678"
+]
+},
+{
 "label":"Truman",
-"isbns":	[			
-"9781534416642"	
-]					
-}					
-]					
+"isbns":[
+"9781534416642"
+]
+}
+]
 }
