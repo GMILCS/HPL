@@ -1,0 +1,27 @@
+{
+"label":"Newbury Winner/Honor Titles 2019",
+"description": "Newbury Winner/Honor Titles.",
+"list": [
+{
+"label":"New Kid",
+"isbns":[
+"9780062691200",
+"9780062885326",
+"9780062691217",
+"9781982609030"
+]
+},
+{
+"label":"Scary stories for young foxes",
+"isbns":[
+"9781250181428"
+]
+},
+{
+"label":"The Undefeated",
+"isbns":[
+"9781328780966"
+]
+}
+]
+}
