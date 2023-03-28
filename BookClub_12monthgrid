@@ -1,27 +1,27 @@
 {					
 	"label":"Adult Book Club 2023",	
-	"description":"This year's fiction and non-fiction reads",	
-	"list":[				
+	"description":"This year's fiction and non-fiction reads",
+	"list": [				
 	{				
-	"label":"Remarkably Bright Creatures",
+	"label":"JANUARY 11: Remarkably Bright Creatures",
 	"isbns":	[			
 		"9780063204157",
 		"9780063242401",
 		"9780063204171",
 		"9798200969272",
-		"9780063204188"	
+		"9780063204188"
 	]				
 	},				
 	{				
-	"label":"Deacon King Kong",
+	"label":"FEBRUARY 8: Deacon King Kong",
 	"isbns":	[			
 		"9780735216723",
 		"9780735216747",
-		"9780593166987"	
+		"9780593166987"
 	]				
 	},				
 	{				
-	"label":"Miss Eliza's English Kitchen",
+	"label":"MARCH 8: Miss Eliza's English Kitchen",
 	"isbns":	[			
 		"9780063066465",
 		"9781432896065",
@@ -29,7 +29,7 @@
 	]				
 	},				
 	{				
-	"label":"The Measure",
+	"label":"APRIL 12: The Measure",
 	"isbns":	[			
 		"9780063204201",
 		"9780063204225",
@@ -37,14 +37,14 @@
 	]				
 	},				
 	{				
-	"label":"Braiding Sweetgrass",
+	"label":"COMMUNITY READ MAY 16: Braiding Sweetgrass",
 	"isbns":	[			
 		"9781571311771",
 		"9781515975908"	
 	]				
 	},				
 	{				
-	"label":"Beautiful Ruins",
+	"label":"JUNE 14: Beautiful Ruins",	
 	"isbns":	[			
 		"9780061928123",
 		"9780062098085",
@@ -52,26 +52,26 @@
 	]				
 	},				
 	{				
-	"label":"This Tender Land",
+	"label":"JULY 12: This Tender Land",
 	"isbns":	[			
 		"9781476749297",
 		"9781476749310"
-	]		
-	},		
+	]				
+	},				
 	{				
-	"label":"Painting the Light",
+	"label":"AUGUST 9: Painting the Light",
 	"isbns":	[			
 		"9780062916242"	
 	]				
 	},				
 	{				
-	"label":"Bicycling with Butterflies",
+	"label":	"SEPTEMBER 13: Bicycling with Butterflies",
 	"isbns":	[			
 		"9781643260457"	
 	]				
 	},				
 	{				
-	"label":"Our Missing Hearts",
+	"label":"OCTOBER 11: Our Missing Hearts",
 	"isbns":	[			
 		"9780593492543",
 		"9780593632673",
@@ -80,7 +80,7 @@
 	]				
 	},				
 	{				
-	"label":"The Keeper of Lost Things",
+	"label":"NOVEMBER 8: The Keeper of Lost Things",
 	"isbns":	[			
 		"9780062473554",
 		"9781473635494",
@@ -88,7 +88,7 @@
 	]				
 	},				
 	{				
-	"label":"Finding Freedom",
+	"label":"DECEMBER 13: Finding Freedom",
 	"isbns":	[			
 		"9781250312341"	
 ]					
