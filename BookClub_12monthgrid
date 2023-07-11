@@ -1,102 +1,99 @@
 {					
-	"label":	"	Adult Book Club 2023	",	
-	"description":	"	This year's fiction and non-fiction reads	"	,
+	"label":	"Adult Book Club 2023",	
+	"description":"This year's fiction and non-fiction reads",
 	"list": [				
 	{				
-	"label":	"	JANUARY 11: Remarkably Bright Creatures	"	,
-	"isbns":	[			
-		"	9780063204157	"	,
-		"	9780063242401	"	,
-		"	9780063204171	"	,
-		"	9798200969272	"	,
-		"	9780063204188	"	
+	"label":"JANUARY 11: Remarkably Bright Creatures",
+	"isbns":[
+		"9780063204157"	,
+		"9780063242401"	,
+		"9780063204171"	,
+		"9798200969272"	,
+		"9780063204188"	
 	]				
 	},				
 	{				
-	"label":	"	FEBRUARY 8: Deacon King Kong	"	,
-	"isbns":	[			
-		"	9780735216723	"	,
-		"	9780735216747	"	,
-		"	9780593166987	"	
+	"label":"FEBRUARY 8: Deacon King Kong",
+	"isbns":[
+		"9780735216723",
+		"9780735216747",
+		"9780593166987"	
 	]				
 	},				
 	{				
-	"label":	"	MARCH 8: Miss Eliza's English Kitchen	"	,
-	"isbns":	[			
-		"	9780063066465	"	,
-		"	9781432896065	"	,
-		"	9780063066489	"	
+	"label":"MARCH 8: Miss Eliza's English Kitchen",
+	"isbns":[
+		"9780063066465",
+		"9781432896065",
+		"9780063066489"	
 	]				
 	},				
 	{				
-	"label":	"	APRIL 12: The Measure	"	,
-	"isbns":	[			
-		"	9780063204201	"	,
-		"	9780063204225	"	,
-		"	9780063204249	"	
+	"label":"APRIL 12: The Measure",
+	"isbns":[
+		"9780063204201",
+		"9780063204225",
+		"9780063204249"	
 	]				
 	},				
 	{				
-	"label":	"	COMMUNITY READ MAY 16: Braiding Sweetgrass	"	,
-	"isbns":	[			
-		"	9781571311771	"	,
-		"	9781515975908	"	
+	"label":"COMMUNITY READ MAY 16: Braiding Sweetgrass",
+	"isbns":[
+		"9781571311771",
+		"9781515975908"	
 	]				
 	},				
 	{				
-	"label":	"	JUNE 14: Beautiful Ruins	"	,
-	"isbns":	[			
-		"	9780061928123	"	,
-		"	9780062098085	"	,
-		"	9780062201621	"	
+	"label":"JUNE 14: Beautiful Ruins",
+	"isbns":[
+		"9780061928123",
+		"9780062098085",
+		"9780062201621"	
 	]				
 	},				
 	{				
-	"label":	"	JULY 12: This Tender Land	"	,
-	"isbns":	[			
-		"	9781476749297	"	,
-		"	9781476749310	"	,
+	"label":"JULY 12: This Tender Land",
+	"isbns":[
+		"9781476749297",
+		"9781476749310"	
 	]				
 	},				
 	{				
-	"label":	"	AUGUST 9: The Giver of Stars	"	,
+	"label":"AUGUST 9: The Giver of Stars",
 	"isbns":	[			
-		"	9780399562488	"	
-		"	9780525530190	"	
-		"	9780399562501	"	
-		"	9780525530220	"	,
+		"9780399562488",
+		"9780525530190",
+		"9780399562501",
+		"9780525530220"	
 	]				
 	},				
 	{				
-	"label":	"	SEPTEMBER 13: Bicycling with Butterflies 	"	,
-	"isbns":	[			
-		"	9781643260457	"	
+	"label":"SEPTEMBER 13: Bicycling with Butterflies",
+	"isbns":[
+		"9781643260457"	
 	]				
 	},				
 	{				
-	"label":	"	OCTOBER 11: Painting the Light	"	,
-	"isbns":	[			
-		"	9780062916242	"	,
-		"		"	,
-		"		"	,
-		"		"	
+	"label":"OCTOBER 11: Painting the Light",
+	"isbns":[
+		"9780062916242"	
 	]				
 	},				
 	{				
-	"label":	"	NOVEMBER 8: The Keeper of Lost Things	"	,
-	"isbns":	[			
-		"	9780062473554	"	,
-		"	9781473635494	"	,
-		"	9780062660541	"	
+	"label":"NOVEMBER 8: The Keeper of Lost Things",
+	"isbns":[
+		"9780062473554",
+		"9781473635494",
+		"9780062660541"	
 	]				
 	},				
 	{				
-	"label":	"	DECEMBER 13: Our Missing Hearts	"	,
-	"isbns":	[			
-		"	9780593492543	"	
-		"	9780593632673	"	
-		"	9780593492550	"	
-		"	9780593629628	"	,
+	"label":"DECEMBER 13: Our Missing Hearts",
+	"isbns":[
+		"9780593492543"	,
+		"9780593632673"	,
+		"9780593492550"	,
+		"9780593629628"	
 ]					
 }					
 ]					
